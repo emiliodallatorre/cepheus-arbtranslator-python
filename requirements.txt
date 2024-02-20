@@ -1,0 +1,2 @@
+tqdm==4.66.2
+translators==5.8.9
